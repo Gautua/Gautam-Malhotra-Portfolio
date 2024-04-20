@@ -22,7 +22,7 @@ title: Gautam Malhotra
 email: gautam.malhotra.work@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my professional space where curiosity meets creativity. I'm dedicated to the art of code and the science of data. I love exploring new technologies, and continuously learning. Whether you're a future employer, a fellow developer, or just passing by, I'm always open to chat, exchange ideas, and build connections. Let's make something amazing together!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Gautam-Malhotra-Portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Gautua
 
