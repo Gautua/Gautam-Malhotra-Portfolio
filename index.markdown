@@ -7,4 +7,4 @@ title: Home
 I am a software developer and data analyst with a passion for turning data into actionable insights.
 
 <!-- Add more sections as needed following the design -->
-<img src="/assets/images/data-analysis.webp" alt="Data Analysis Visualization">
+<img src="Gautam-Malhotra-Portfolio/blob/main/assets/images/data-analysis.webp" alt="Data Analysis Visualization">
