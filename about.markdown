@@ -8,7 +8,7 @@ permalink: /about/
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
 </head>
 <div>
-<a href="/assets/files/resume.pdf" target="_blank" style="display: inline-block; border: 3px solid transparent; transition: border-color 0.3s ease;" onmouseover="this.style.borderColor='#007bff'" onmouseout="this.style.borderColor='transparent'">
+<a href="{{ 'assets/files/resume.pdf' | relative_url }}" target="_blank" style="display: inline-block; border: 3px solid transparent; transition: border-color 0.3s ease;" onmouseover="this.style.borderColor='#007bff'" onmouseout="this.style.borderColor='transparent'">
     <img src="{{ 'assets/images/resume-thumbnail.png' | relative_url }}" alt="Resume Thumbnail" style="width: 500px; height: auto; display: block;">
 </a>
 
