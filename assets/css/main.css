@@ -1,0 +1,15 @@
+.resume-link {
+    display: inline-block;
+    border: 3px solid transparent; /* Adjust border size as needed */
+    transition: border-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.resume-thumbnail {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+}
+
+.resume-link:hover {
+    border-color: #007bff; /* Change to whatever color you want for the highlight */
+}
